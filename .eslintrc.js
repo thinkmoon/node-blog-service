@@ -6,7 +6,6 @@ module.exports = {
     sourceType: 'module',
   },
   extends: [
-    'plugin:prettier/recommended',
   ],
   root: true,
   env: {
